@@ -1,0 +1,36 @@
+import 'package:flutter/material.dart';
+
+const Color blackPrimaryColor = Color(0xff141318);
+const Color blackSecondaryColor = Color.fromRGBO(29, 33, 44, 0.79);
+const Color greenColor = Color(0xffCBF147);
+const Color timeContainerBackground = Color(0xff26242E);
+const Color outlineColor = Color(0xff43404F);
+const Color redColor = Color.fromARGB(255, 241, 77, 71);
+const Color redLightColor = Color.fromARGB(255, 255, 124, 112);
+const Color paleRedLightColor = Color.fromARGB(255, 255, 147, 137);
+const Color paleGreenColor = Color.fromARGB(255, 219, 233, 168);
+const Color darkGreenColor = Color.fromARGB(255, 86, 100, 43);
+const Color greyPrimaryColor = Color(0xffA1A6AC);
+const Color greySecondaryColor = Color.fromRGBO(173, 184, 212, 0.38);
+const Color greyTertiaryColor = Color.fromRGBO(161, 166, 172, 0.5);
+const Color yellowPrimaryColor = Color(0xffFFCB66);
+const Color yellowSecondaryColor = Color(0xffFFDB66);
+const Color whiteColor = Color(0xffFFFFFF);
+const Color redDeleteColor = Color(0xffF55F5F);
+const lighterWhiteColor = Color(0xffF2F2F2);
+
+const Color baseGreenColor = Color(0xffCBF147);
+const Color gradientLightGreenColor = Color(0xff6EB27E);
+const Color baseBlackColor = Color(0xff141318);
+const Color lighterBlackColor = Color(0xff1F1D25);
+const Color lightestBlackColor = Color(0xff43404F);
+const Color lightBlackColor = Color(0xff1B1B1B);
+const Color darkerBlackColor = Color(0xff0F0E12);
+const Color darkWhiteColor = Color(0xffB3B3B3);
+const Color lightestWhiteColor = Color(0xffFFFFFF);
+const Color lightestWhiteColor2 = Color(0xffD9d9d9);
+const Color lightWhiteColor = Color(0xffE6E6E6);
+const Color textWhiteColor = Color(0xffF7F7F8);
+const Color textLightestWhiteColor = Color(0xff858489);
+const whiteColor_01 = Color(0xffB3B3B3);
+var baseWhiteColor = const Color(0xffD9D9D9);
